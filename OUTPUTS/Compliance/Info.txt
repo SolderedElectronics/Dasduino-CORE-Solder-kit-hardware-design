@@ -1,0 +1,5 @@
+SKU: 333200
+Full product name: Dasduino CORE Solder kit
+Country of origin: Croatia
+HS tariff code: 85340090
+EAN/UPC barcode: 732388662807
